@@ -1,0 +1,20 @@
+.container-contact-form { background-color: var(--teal-500) }
+#contact-form { background-color: var(--purple-600) }
+#contact-form h2 { color: var(--white-000) }
+#contact-form p { color: var(--white-000) }
+#contact-form p a:link { color: var(--white-000) }
+#contact-form p a:visited { color: var(--white-000) }
+#contact-form p a:focus { color: var(--teal-500) }
+#contact-form p a:hover { color: var(--teal-500) }
+#contact-form p:active { color: var(--teal-500) }
+#contact-form p a:focus { background-color: var(--purple-600) } 
+#contact-form p a:hover { background-color: var(--purple-600) }
+#contact-form p a:active { background-color: var(--purple-600) }
+#contact-form label { color: var(--white-000) }
+#contact-form [type="text"] { background-color: var(--white-000) }
+#contact-form [type="email"] { background-color: var(--white-000) }
+#contact-form textarea { background-color: var(--white-000) }
+#contact-form #btn-submit:focus { color: var(--teal-500) }
+#contact-form #btn-submit:hover { color: var(--teal-500) }
+#contact-form #btn-submit:focus { border-color: var(--teal-500) }
+#contact-form #btn-submit:hover { border-color: var(--teal-500) }

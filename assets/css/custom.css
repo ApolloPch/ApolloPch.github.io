@@ -202,9 +202,9 @@ header.hero-block a.btn-primary:active { border-color: var(--teal-500) }
 .theme-one .col-3 { background-color: var(--purple-600) }
 .theme-one .col-1 h2 { color: var(--purple-600) }
 .theme-one .col-1 h3 { color: var(--purple-600) }
-.theme-one .col-3 h3 { color: var(--teal-500) }
-.theme-one .col-3 p { color: var(--teal-500) }
-.theme-one .col-3 li { color: var(--teal-500) }
+.theme-one .col-3 h3 { color: #FFF }
+.theme-one .col-3 p { color: #FFF }
+.theme-one .col-3 li { color: #FFF }
 .theme-one .col-3 figure.icon { color: var(--pink-400) }
 .theme-one a.btn-primary:focus { color: var(--gray-900) }
 .theme-one a.btn-primary:hover { color: var(--gray-900) }
@@ -224,4 +224,3 @@ footer p.privacy a:active { color: var(--teal-500); text-decoration-color: var(-
 footer ul.footer-icons li a:focus i, 
 footer ul.footer-icons li a:hover i, 
 footer ul.footer-icons li a:active i { color: var(--teal-500)}
-
